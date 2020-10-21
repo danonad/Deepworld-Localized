@@ -5,11 +5,23 @@
         "isoCode": "de"
     },
     "mainMenu": {
-
+        "title": "Deepworld Remastered",
+        "log": "Changelog",
+        "play": "Spielen",
+        "exit": "Verlassen",
+        "credits": "Mitwirkende",
+        "__Comment__": "THE BELOW ARE NOT REQUIRED TO BE TRANSLATED, Only translate them if you know you can write them perfectly.",
+        "legalText": "Deepworld assets are Copyright 2014 Bytebin LLC. Bytebin is not affiliated with and does not endorse, sponsor, or specifically approve this application",
+        "legalSecond":  "Deepworld Remastered logic and assets are owned and created by Taylor Schneider / Mister SirCode. Do not distribute under a different name or owner, LEGAL ACTION WILL BE APPREHENDED"
     },
     "worldSelect": {
-
-    },
+        "title": "Universum wählen",
+        "single": "Singleplayer",
+        "multi": "Multiplayer",
+        "off": "Offline",
+        "playOff": "Offline spielen",
+        "return": "Zurück"
+     },
     "credits": {
 
     },
@@ -20,6 +32,31 @@
 
     },
     "items": {
-
+        "air": "Luft",
+        "shillings": "Shillinge",
+        "earth": "Erde",
+        "compost": "Kompost",
+        "sandstone": "Sandstein",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
     }
 }
